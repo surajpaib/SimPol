@@ -1,9 +1,9 @@
 import csv
 
 file1=open("Barack Obama.csv",'r+b')
-file2=open("Mitt Romney.csv",'rb')
-file3=open("Jill Stein.csv",'rb')
-file4=open("Gary Johnson.csv",'rb')
+file2=open("Mitt Romney.csv",'r+b')
+file3=open("Jill Stein.csv",'r+b')
+file4=open("Gary Johnson.csv",'r+b')
 path_1="C:\Users\Suraj\OneDrive\Documents\SimPol\SimPol\Training Data\Barack_num.csv"
 path_2="C:\Users\Suraj\OneDrive\Documents\SimPol\SimPol\Training Data\Mitt_num.csv"
 path_3="C:\Users\Suraj\OneDrive\Documents\SimPol\SimPol\Training Data\Jill_num.csv"
@@ -37,6 +37,8 @@ for row in reader1:
 
 
     writer1.writerow(row)
+
+
 for row in reader2:
         if(row[1]=="Strongly Favors"):
             row[1]=2
@@ -53,6 +55,8 @@ for row in reader2:
 
 
         writer2.writerow(row)
+
+        
 for row in reader3:
     if(row[1]=="Strongly Favors"):
         row[1]=2

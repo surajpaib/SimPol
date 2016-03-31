@@ -1,0 +1,467 @@
+"STATE","FIRST NAME","GENERAL %"
+"Alabama","John",0.603169130291706
+"Alabama","Barack",0.38740434294574916
+"Alabama","Ralph",0.0032326595768492426
+"Alabama","Bob",0.0023768715303557116
+"Alabama","Chuck",0.0020525578633206003
+"Alabama","",""
+"Alaska","John",0.5942451953880631
+"Alaska","Barack",0.37889373599389325
+"Alaska","Ralph",0.011597286302449133
+"Alaska","Chuck",0.005088949315904193
+"Alaska","Bob",0.0048712894355251585
+"Arizona","John",0.5363524782262724
+"Arizona","Barack",0.4511525087476428
+"Arizona","Bob",0.005474225792738094
+"Arizona","Ralph",0.004927457242830203
+"Arizona","Cynthia",0.0014850826802123415
+"Arizona","Chuck",0.0005977828404495362
+"Arizona","Charles",6.976313236464317e-06
+"Arizona","Jonathan",3.4881566182321585e-06
+"Arkansas","John",0.5871590449992959
+"Arkansas","Barack",0.3886465976512423
+"Arkansas","Ralph",0.011855143072490124
+"Arkansas","Bob",0.004395292913694521
+"Arkansas","Chuck",0.0037023164555680613
+"Arkansas","Cynthia",0.003193397489639864
+"Arkansas","Gloria",0.001048207418069108
+"California","Barack",0.6101263834713425
+"California","John",0.36954858832464477
+"California","Ralph",0.007991579350975896
+"California","Bob",0.0049832250643346435
+"California","Alan",0.002999063553041978
+"California","Cynthia",0.0028590389252243415
+"California","Ron",0.0012539540919782627
+"California","Chuck",0.00023189966007712784
+"California","James",3.6130630663845037e-06
+"California","Frank",2.654495314078411e-06
+"Colorado","Barack",0.5366035356795152
+"Colorado","John",0.44707307465202445
+"Colorado","Ralph",0.005559946399318415
+"Colorado","Bob",0.004538068893032661
+"Colorado","Chuck",0.0025955022398855363
+"Colorado","Alan",0.0012704760683283766
+"Colorado","Cynthia",0.0011751174909284427
+"Colorado","Frank Edward",0.00034520637844779554
+"Colorado","Charles",0.0002490149750443688
+"Colorado","Jonathan E.",0.00014491172460775976
+"Colorado","Thomas Robert",0.00013991476858680254
+"Colorado","Brian",9.410933839469457e-05
+"Colorado","Gloria",6.57932542759369e-05
+"Colorado","James",6.412760226895116e-05
+"Colorado","Bradford",4.5805430192107976e-05
+"Colorado","Gene C.",3.5395105148447074e-05
+"Connecticut","Barack",0.6058864571650301
+"Connecticut","John",0.3822134725773729
+"Connecticut","Ralph",0.011635921124461606
+"Connecticut","Chuck",0.0001888514492071579
+"Connecticut","Cynthia",5.4651544786637334e-05
+"Connecticut","Brian",1.153754834384566e-05
+"Connecticut","Roger",9.10859079777289e-06
+"Delaware","Barack",0.6194266898150393
+"Delaware","John",0.36947033548975294
+"Delaware","Ralph",0.005821848054857763
+"Delaware","Bob",0.002689058514301233
+"Delaware","Chuck",0.0015178995761520033
+"Delaware","Cynthia A.",0.0009335324869305452
+"Delaware","Roger",0.00014063606296616006
+"District of Columbia","Barack",0.9245710975614343
+"District of Columbia","John",0.06532557465968035
+"District of Columbia","Ralph",0.00360349516462105
+"District of Columbia","Cynthia",0.0022192715523240286
+"Florida","Barack",0.5103330527066491
+"Florida","John",0.4821531916597622
+"Florida","Ralph",0.0033517885899033506
+"Florida","Bob",0.0020520230387198082
+"Florida","Chuck",0.0009433013329926404
+"Florida","Cynthia",0.00034406960813010147
+"Florida","Alan",0.0003039063043753927
+"Florida","Gloria",0.00018067527742474327
+"Florida","Charles",9.474725959938713e-05
+"Florida","James",6.352237656160169e-05
+"Florida","Thomas Robert",4.993597707187825e-05
+"Florida","Brian",4.8267471871385896e-05
+"Florida","Gary",4.659896667089355e-05
+"Florida","Gene",3.491943026744708e-05
+"Georgia","John",0.5220451799292952
+"Georgia","Barack",0.46990179096065066
+"Georgia","Bob",0.00732095871918004
+"Georgia","Chuck",0.00035724423529603623
+"Georgia","Ralph",0.00029507048821170466
+"Georgia","Cynthia",6.370260971755282e-05
+"Georgia","Michael A.",5.86064009401486e-06
+"Georgia","James",5.096208777404226e-06
+"Georgia","Jonathan",2.0384835109616905e-06
+"Georgia","Frank",1.5288626332212676e-06
+"Georgia","David C.",1.0192417554808452e-06
+"Georgia","Brian Russell",5.096208777404226e-07
+"Hawaii","Barack",0.7184611789191477
+"Hawaii","John",0.2658168124735431
+"Hawaii","Ralph",0.008433134612671088
+"Hawaii","Bob",0.0028970297728234794
+"Hawaii","Chuck",0.002233402709185833
+"Hawaii","Cynthia",0.002158441512628757
+"Idaho","John",0.6151709147303861
+"Idaho","Barack",0.3609098763283785
+"Idaho","Ralph",0.01095215852925104
+"Idaho","Chuck",0.007245978611617378
+"Idaho","Bob",0.005583692808362412
+"Idaho","Alan",6.105732977979674e-05
+"Idaho","Cynthia",5.953089653530182e-05
+"Idaho","Santa",9.15859946696951e-06
+"Idaho","Brian",4.579299733484755e-06
+"Idaho","Lawson Mitchell",1.5264332444949186e-06
+"Idaho","Reverend",1.5264332444949186e-06
+"Illinois","Barack",0.6191811452001323
+"Illinois","John",0.36780922542147204
+"Illinois","Ralph",0.0056041146094675635
+"Illinois","Bob",0.0035568055822399474
+"Illinois","Cynthia",0.002143644459961129
+"Illinois","Charles O.",0.0014950100237742085
+"Illinois","John Joseph",0.00020806280490752975
+"Illinois","Ronald G.",7.243265619061088e-07
+"Illinois","Donald K.",5.432449214295816e-07
+"Illinois","Frank James",5.432449214295816e-07
+"Illinois","Ron",1.810816404765272e-07
+"Indiana","Barack",0.4994591163968428
+"Indiana","John",0.4891390717884854
+"Indiana","Bob",0.010634833049442141
+"Indiana","Chuck",0.0003722209742157006
+"Indiana","Ralph",0.0003304188140254608
+"Indiana","Cynthia",3.162424292652925e-05
+"Indiana","Darrell L.",1.8538349301758526e-05
+"Indiana","Brian",5.088958631855282e-06
+"Indiana","Michael L.",4.361964541590241e-06
+"Indiana","Kevin",3.271473406192681e-06
+"Indiana","Lawson Mitchell",7.269940902650402e-07
+"Indiana","""Lou""",3.634970451325201e-07
+"Indiana","John Leroy",3.634970451325201e-07
+"Iowa","Barack",0.5392802007386527
+"Iowa","John",0.4439325935530208
+"Iowa","Ralph",0.005213636124109782
+"Iowa","Bob",0.0029860980546124157
+"Iowa","Chuck",0.002891765980991762
+"Iowa","Cynthia",0.0009257554535323458
+"Iowa","James",0.00018996527929124736
+"Iowa","Brian",0.00011840301654454458
+"Iowa","Gloria",7.871848902137305e-05
+"Kansas","John",0.5661225434349189
+"Kansas","Barack",0.41651967194013617
+"Kansas","Ralph",0.00851787240102535
+"Kansas","Bob",0.005426128272183527
+"Kansas","Chuck",0.0033563346365966702
+"Kansas","Cynthia A.",2.8320084927888974e-05
+"Kansas","Alan",2.508350379327309e-05
+"Kansas","Jonathan E.",1.6182905673079412e-06
+"Kansas","Frank",1.6182905673079412e-06
+"Kansas","Keith Russell",8.091452836539706e-07
+"Kentucky","John",0.5739902114287592
+"Kentucky","Barack",0.4116811378392879
+"Kentucky","Ralph",0.008418828218239152
+"Kentucky","Bob",0.003278733398298497
+"Kentucky","Chuck",0.002569773680349498
+"Kentucky","Leonard C.",3.120517677458913e-05
+"Kentucky","Alan",1.4781399524805378e-05
+"Kentucky","Billy",9.854266349870252e-06
+"Kentucky","Brian",3.832214691616209e-06
+"Kentucky","Jonathan",5.474592416594585e-07
+"Kentucky","Keith Russell",5.474592416594585e-07
+"Kentucky","",""
+"Louisiana","John",0.5856272131075638
+"Louisiana","Barack",0.3993291380234511
+"Louisiana","""Ron""",0.004777736807290638
+"Louisiana","Cynthia",0.004685425709711689
+"Louisiana","Ralph",0.0035685124296127883
+"Louisiana","Chuck",0.0013163256511119917
+"Louisiana","James",0.00037485445701949396
+"Louisiana","Gloria",0.0001805421466461236
+"Louisiana","Gene C.",0.00014025166759232767
+"Maine","Barack",0.5770573729797597
+"Maine","John",0.40384018337908234
+"Maine","Ralph",0.014546687947831058
+"Maine","Cynthia",0.003966283851890755
+"Maine","Bob",0.00034328870580157915
+"Maine","Chuck",0.00024208008337402195
+"Maine","Jonathan",4.103052260576643e-06
+"Maryland","Barack",0.6191934476264593
+"Maryland","John",0.364745196451127
+"Maryland","Ralph",0.0055909037709435646
+"Maryland","Bob",0.0037399357652162413
+"Maryland","Cynthia",0.0018038483110629443
+"Maryland","Chuck",0.0014287907414359956
+"Maryland","Alan",3.913974637444349e-05
+"Maryland","Donald K.",6.459958139471256e-06
+"Maryland","Blaine",4.559970451391475e-06
+"Maryland","Brian",3.7999753761595625e-06
+"Maryland","Joe",3.03998030092765e-06
+"Maryland","Lynne A.",1.519990150463825e-06
+"Maryland","RaeDeen R.",7.599950752319125e-07
+"Maryland","Frank",7.599950752319125e-07
+"Maryland","Jose M.",3.7999753761595625e-07
+"Maryland","Theodis (Ted), Sr.",3.7999753761595625e-07
+"Maryland","Ronald G.",3.7999753761595625e-07
+"Maryland","Charles",3.7999753761595625e-07
+"Massachusetts","Barack",0.6180156670675125
+"Massachusetts","John",0.3599024337995803
+"Massachusetts","Ralph",0.009360967352973155
+"Massachusetts","Bob",0.004280773843429942
+"Massachusetts","Cynthia",0.0021259434888517797
+"Massachusetts","Chuck",0.0016134450508522437
+"Michigan","Barack",0.5743129526651187
+"Michigan","John",0.4095831352366344
+"Michigan","Ralph",0.0066146637007808845
+"Michigan","Bob",0.004741525293266418
+"Michigan","Chuck",0.002935963017862091
+"Michigan","Cynthia",0.001777772090897495
+"Michigan","Alan",2.57908906574198e-05
+"Michigan","Brian",8.197104782590788e-06
+"Minnesota","Barack",0.5406029269827984
+"Minnesota","John",0.43822931044139074
+"Minnesota","Ralph",0.010360198311623027
+"Minnesota","Bob",0.003152177610467951
+"Minnesota","Chuck",0.0023320066974325247
+"Minnesota","Cynthia",0.0017777814428342248
+"Minnesota","Roger",0.0002714432431076609
+"Minnesota","Alan",7.559178921985494e-06
+"Minnesota","Brian",2.405193293359021e-06
+"Minnesota","Joe",1.0307971257252946e-06
+"Minnesota","Curtis",3.4359904190843155e-07
+"Mississippi","John",0.5617618898101739
+"Mississippi","Barack",0.43001554426238403
+"Mississippi","Ralph",0.0031096277517414614
+"Mississippi","Chuck",0.0019777263512072967
+"Mississippi","Bob",0.001960670302706097
+"Mississippi","Cynthia A.",0.0008016342795563877
+"Mississippi","Ted C.",0.0003729072422307761
+"Missouri","John",0.49426074411878823
+"Missouri","Barack",0.49292647865705136
+"Missouri","Ralph",0.006089487745303321
+"Missouri","Bob",0.0038923767735936456
+"Missouri","Chuck",0.0028035641946461873
+"Missouri","Cynthia",2.7348510617204606e-05
+"Montana","John",0.49512953241063673
+"Montana","Barack",0.47249858250629206
+"Montana","Ron",0.021696831748595765
+"Montana","Ralph",0.007517815550415866
+"Montana","Bob",0.002763602840698182
+"Montana","Chuck",0.0002916569787600295
+"Montana","Cynthia Ann",4.6909863716648104e-05
+"Montana","RaeDeen",2.4474711504338143e-05
+"Montana","Rosa A.",2.0395592920281785e-05
+"Montana","Santa",6.118677876084536e-06
+"Montana","Jonathan",2.0395592920281787e-06
+"Montana","Amy Lou",2.0395592920281787e-06
+"Nebraska","John",0.5653185336979162
+"Nebraska","Barack",0.415982657769247
+"Nebraska","Ralph",0.00674669685166627
+"Nebraska","Chuck",0.0037090608662878567
+"Nebraska","Bob",0.0034195244864161263
+"Nebraska","Cynthia",0.0012829456832247363
+"Nevada","Barack",0.551466759243187
+"Nevada","John",0.42654115108984053
+"Nevada","Ralph",0.006354303568328911
+"Nevada","Bob",0.004404617253948967
+"Nevada","Chuck",0.003300104975161389
+"Nevada","Cynthia",0.0014578735503922103
+"New Hampshire","Barack",0.5412689705613458
+"New Hampshire","John",0.44521428470962204
+"New Hampshire","Ralph",0.004927071465743983
+"New Hampshire","""Bob""",0.0031182750327018015
+"New Hampshire","Hilary",0.0015809387175267592
+"New Hampshire","Ron",0.0015359297860669226
+"New Hampshire","George",0.000746866956411663
+"New Hampshire","Chuck",0.00031787557843509574
+"New Hampshire","Mitt",0.00015753126010942795
+"New Hampshire","Mike",8.579827559531345e-05
+"New Hampshire","Cynthia",5.62611643247957e-05
+"New Hampshire","Sarah",2.5317523946158065e-05
+"New Hampshire","Bill",1.8284878405558604e-05
+"New Jersey","Barack",0.5727213715188599
+"New Jersey","John",0.4170393385927491
+"New Jersey","Ralph",0.0055058674016095705
+"New Jersey","Bob",0.002182131032819344
+"New Jersey","Chuck",0.001022688113473916
+"New Jersey","Cynthia",0.0009399630891281998
+"New Jersey","Brian",0.00018070247505517373
+"New Jersey","Jeffrey ""Jeff""",0.00016519153299035194
+"New Jersey","Roger",0.00013520371166502983
+"New Jersey","Gloria",0.00010754253164943099
+"New Mexico","Barack",0.5690748026279335
+"New Mexico","John",0.4177903483433274
+"New Mexico","Ralph",0.006416850768167024
+"New Mexico","Bob",0.002924744446237945
+"New Mexico","Chuck",0.0019237301814835248
+"New Mexico","Cynthia",0.001869523632850614
+"New York","Barack",0.6288428726813525
+"New York","Barack",0.6079536642851506
+"New York","John",0.36026643873632674
+"New York","John",0.31649585632954935
+"New York","John",0.022310762916194375
+"New York","John",0.02145981949058302
+"New York","Barack",0.02088920839620198
+"New York","Ralph",0.0053984259247989545
+"New York","Bob",0.0025646089462134916
+"New York","Cynthia",0.0016753194080668967
+"New York","Roger",0.0004731098867402415
+"New York","Gloria",0.00021450265680975262
+"New York","Chuck",8.297418207283903e-05
+"New York","Alan Lee",4.580593647554205e-06
+"New York","Jerome S.",2.3557338758850197e-06
+"New York","Brian",1.3087410421583444e-06
+"New York","Lanakila",3.9262231264750327e-07
+"New York","Jonathan",1.3087410421583444e-07
+"New York","Michael",1.3087410421583444e-07
+"New York","",""
+"North Carolina","Barack",0.49704381262919617
+"North Carolina","John",0.49375508752574065
+"North Carolina","Bob",0.005966889124009549
+"North Carolina","Ralph",0.000335901386033972
+"North Carolina","Cynthia",3.6652223061717935e-05
+"North Carolina","Brian",8.81509162243849e-06
+"North Dakota","John",0.5325010027761898
+"North Dakota","Barack",0.44620540014717913
+"North Dakota","Ralph",0.01323032900534077
+"North Dakota","Bob",0.004276406176469659
+"North Dakota","Chuck",0.0037868618948206216
+"Ohio","Barack",0.5150427006052537
+"Ohio","John",0.4691057836327485
+"Ohio","Ralph",0.007416679075389561
+"Ohio","Bob",0.0034890993018998483
+"Ohio","Chuck",0.002201161456462901
+"Ohio","Cynthia",0.0014922000227736562
+"Ohio","Richard",0.0006840855939106747
+"Ohio","Brian",0.00047912268869287975
+"Ohio","Donald K.",3.713857769758336e-05
+"Ohio","Alan L.",2.8029115243459143e-05
+"Ohio","Joe",1.2437919889284994e-05
+"Ohio","Platt",1.1036464127112037e-05
+"Ohio","Jonathan",3.503639405432393e-07
+"Ohio","James R.",1.7518197027161965e-07
+"Oklahoma","John",0.656450811226935
+"Oklahoma","Barack",0.343549188773065
+"Oregon","Barack",0.5674880625692065
+"Oregon","John",0.40400981692292204
+"Oregon","Ralph",0.010183470980335518
+"Oregon","Chuck",0.00420873763037075
+"Oregon","Bob",0.004177006604430089
+"Oregon","Cynthia",0.002485414669800379
+"Pennsylvania","Barack",0.5448552801203738
+"Pennsylvania","John",0.4416705247991443
+"Pennsylvania","Ralph",0.007147024115988766
+"Pennsylvania","Bob",0.003311341978210864
+"Pennsylvania","Hillary",0.0008338222518455842
+"Pennsylvania","Ron",0.0006400841338958225
+"Pennsylvania","Chuck",0.00018159830455033465
+"Rhode Island","Barack",0.6286400461245617
+"Rhode Island","John",0.35057846474735355
+"Rhode Island","Ralph",0.010236006833896466
+"Rhode Island","Bob",0.0029294183981041447
+"Rhode Island","Cynthia",0.0016893968620036205
+"Rhode Island","Chuck",0.0014307940801159898
+"Rhode Island","Hillary",0.0013884001814458862
+"Rhode Island","Ron",0.0010004960086144401
+"Rhode Island","Gloria",0.00025860278188763073
+"Rhode Island","Mike",7.206962773917578e-05
+"Rhode Island","Mitt",5.299237333762925e-05
+"Rhode Island","Al",3.179542400257755e-05
+"Rhode Island","Colin",2.967572906907238e-05
+"Rhode Island","Mickey",2.3316644268556868e-05
+"Rhode Island","Stephen",1.695755946804136e-05
+"Rhode Island","Michael",1.271816960103102e-05
+"Rhode Island","Bill",1.271816960103102e-05
+"Rhode Island","Buddy",1.059847466752585e-05
+"Rhode Island","Alan",1.059847466752585e-05
+"Rhode Island","Dennis",1.059847466752585e-05
+"Rhode Island","Joe the",1.059847466752585e-05
+"Rhode Island","Jessie",1.059847466752585e-05
+"South Carolina","John",0.5387364397863786
+"South Carolina","Barack",0.4489656001736624
+"South Carolina","Bob",0.0037913157370056466
+"South Carolina","Chuck",0.003553935539823912
+"South Carolina","Ralph",0.0026304432814897066
+"South Carolina","Cynthia",0.002322265481639735
+"South Dakota","John",0.5315897637279927
+"South Dakota","Barack",0.44747431114601743
+"South Dakota","Ralph",0.011170888147130048
+"South Dakota","Chuck",0.004961057660841678
+"South Dakota","Bob",0.004803979318018195
+"Tennessee","John",0.5689695428289423
+"Tennessee","Barack",0.4182853806271298
+"Tennessee","Ralph",0.0044465831124466245
+"Tennessee","Bob",0.003287625074574507
+"Tennessee","Chuck",0.003150688778032033
+"Tennessee","Cynthia",0.0009612466434259615
+"Tennessee","Brian",0.0005100492393688775
+"Tennessee","Charles",0.0003888836960798908
+"Texas","John",0.5545236045232641
+"Texas","Barack",0.4368312144588963
+"Texas","Bob",0.006946945298809885
+"Texas","Ralph",0.0007119517145458631
+"Texas","Chuck",0.0007066284796779319
+"Texas","Alan",0.00011079756294879976
+"Texas","Cynthia",0.00011253070918487037
+"Texas","Thaddaus",2.6739970499375138e-05
+"Texas","Brian",1.6712481562109462e-05
+"Texas","Jonathan",1.2874800610810252e-05
+"Utah","John",0.6258386971450172
+"Utah","Barack",0.3440574566607516
+"Utah","Charles O. ""Chuck""",0.012612745046568036
+"Utah","Ralph",0.00883690162436868
+"Utah","Bob",0.007314384115417327
+"Utah","Cynthia",0.0010311118577863646
+"Utah","Gloria",0.0002751031636863824
+"Utah","Alan",2.6250301878471603e-05
+"Utah","Frank",3.1500362254165923e-06
+"Utah","Jonathan",2.100024150277728e-06
+"Utah","Charles",1.050012075138864e-06
+"Utah","David Jon",1.050012075138864e-06
+"Vermont","Barack",0.6745568319560924
+"Vermont","John",0.30449228724549754
+"Vermont","Ralph",0.010272392215255687
+"Vermont","Bob",0.0032826123071811376
+"Vermont","Chuck",0.0015382438177980963
+"Vermont","Roger",0.00046147314533942886
+"Vermont","Gloria",0.0004583966577038327
+"Vermont","Brian",0.00043378475661906313
+"Vermont","Cynthia",0.0002030481839493487
+"Virginia","Barack",0.5262946987317566
+"Virginia","John",0.46330500690255316
+"Virginia","Ralph",0.00308412520210783
+"Virginia","Bob",0.0029723951590810206
+"Virginia","Chuck",0.0020073806288037903
+"Virginia","Cynthia",0.0006295558193626016
+"Washington","Barack",0.5765289221364835
+"Washington","John",0.40476304942114893
+"Washington","Ralph",0.009710301171136937
+"Washington","Bob",0.004191146302222217
+"Washington","Chuck",0.003105821175562535
+"Washington","Cynthia",0.0012575414619882656
+"Washington","Gloria",0.00023214630288078745
+"Washington","James E.",0.00021107202857671595
+"West Virginia","John Sidney, III",0.5571034310695478
+"West Virginia","Barack Hussein",0.42589750382296754
+"West Virginia","Ralph",0.010118424390743022
+"West Virginia","Charles Obadiah",0.0034550375568889805
+"West Virginia","Cynthia Ann",0.003300857381936531
+"West Virginia","Santa",8.269663929267743e-05
+"West Virginia","David L.",2.522948317403718e-05
+"West Virginia","Donald K.",5.6065518164527064e-06
+"West Virginia","Robert",4.20491386233953e-06
+"West Virginia","Charles G. ""Bud""",4.20491386233953e-06
+"West Virginia","Ron",1.4016379541131766e-06
+"West Virginia","Frank",1.4016379541131766e-06
+"Wisconsin","Barack",0.5621778651794235
+"Wisconsin","John",0.4231366248834809
+"Wisconsin","Ralph",0.005900951828054878
+"Wisconsin","Bob",0.002969078744272088
+"Wisconsin","Chuck",0.0017000640540695451
+"Wisconsin","Cynthia",0.001413144726332256
+"Wisconsin","Jeffrey J.",0.00025608220372814127
+"Wisconsin","Brian",0.0001810005104884768
+"Wisconsin","Gloria",7.943911293660927e-05
+"Wyoming","John",0.6477628819828947
+"Wyoming","Barack",0.32540897988675005
+"Wyoming","Ralph",0.00991525889624516
+"Wyoming","Bob",0.0062593753190553604
+"Wyoming","Chuck",0.004680787566069002
+"","",""

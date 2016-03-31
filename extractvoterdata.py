@@ -1,9 +1,9 @@
 import xlrd
 import csv
-workbook=xlrd.open_workbook('2012pres.xls', on_demand=True)
-worksheet=workbook.sheet_by_name('2012 Pres General Results')
+workbook=xlrd.open_workbook('2004pres.xls', on_demand=True)
+worksheet=workbook.sheet_by_name('2004 PRES GENERAL RESULTS')
 
-row=538
+row=482
 candidate_data=[]
 
 
@@ -18,7 +18,7 @@ for index in range(row):
 
 print(candidate_data[0:5])
 
-ifile=open("voterdata2012.csv",'wb')
+ifile=open("voterdata2004.csv",'wb')
 writer=csv.writer(ifile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
 
 for row in candidate_data:
